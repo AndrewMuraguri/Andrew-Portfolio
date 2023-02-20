@@ -36,8 +36,8 @@ export function Project() {
       This project tested both my technical skills in React and problem-solving skill.
       </p>
       <div class="user">
-          <a href='https://github.com/AndrewMuraguri/Portfolio'><button class="src"><img src={require('../media/icons8-source-code-50.png')}/></button></a>
-          <button class="live"><img src={require('../media/icons8-website-50.png')}></img></button>
+          <a href='https://github.com/AndrewMuraguri/Portfolio'><button class="src"><img src={require('../media/icons8-source-code-50.png')} alt='source'/></button></a>
+          <button class="live"><img src={require('../media/icons8-website-50.png')} alt='port'></img></button>
           <small>22-02-2023</small>
       </div>
     </div>
