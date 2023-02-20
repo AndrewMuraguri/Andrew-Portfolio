@@ -1,25 +1,29 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import 'tachyons'
+import { Routes , Route } from 'react-router-dom'
+import {Header} from './Components/Header/Header';
+import {Project} from './Components/Project/Project';
+import {Homepage} from './Components/Homepage/Homepage';
+import {Credential} from './Components/Credential/Credential'
+import background from './Components/media/layeredwavesbg.svg';
+    
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  const myStyle={
+      backgroundImage: `url(${background})`,
 }
 
+    return (
+      <div className='App'style={myStyle} >
+        {<Header/>}
+          <Routes>
+              <Route index element={<Homepage /> } />
+              <Route path='/Project' element={<Project /> } />
+              <Route path='/Credential' element={<Credential /> } />
+          </Routes>   
+        </div>
+  )
+}
 export default App;

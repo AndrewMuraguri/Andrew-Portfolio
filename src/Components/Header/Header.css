@@ -1,0 +1,24 @@
+
+@font-face {
+  font-family: RosmatikaRegular;
+  src: local('RosmatikaRegular'), 
+  url('../RosmatikaRegular-BWA45.ttf') format('Truetype'); 
+
+}
+
+
+.link{
+  font-family: RosmatikaRegular;
+  color: #47221C;
+}
+
+.link:hover{
+  color: #47221C;
+}
+
+
+
+
+
+
+
