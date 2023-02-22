@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - build
       
 jobs:
   build:
@@ -27,11 +26,7 @@ jobs:
           BRANCH: build 
           FOLDER: dist 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<<<<<<< HEAD
-          MESSAGE: "Build: ({sha}) {msg}" # The commit message
-=======
           MESSAGE: "Build: ({sha}) {msg}" 
->>>>>>> c2210b5384cc3b91878b2cdc924af23cab249886
           
           
       
