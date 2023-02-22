@@ -7,15 +7,15 @@ Challenges:
 -Adding of a live avatar through video mp4.
 -Implementing certain buttons from other devs.
 -Setting up the portfolio as a live website.
--Including pdf viewing and docx download for ATS (applicant tracking system) 
+-Including pdf viewing and docx download for ATS (applicant tracking system). 
 
 Benefits:
 -Having fun debugging each road block or creative block.
 -Learnt a lot about '@media' and '@fontface'
 -Pride in my own creation
--Much stronger command of react
--Much stronger command of Bootstrap
--Much stronger command of CSS
+-Much stronger command of react/
+-Much stronger command of Bootstrap.
+-Much stronger command of CSS.
 
 
 
