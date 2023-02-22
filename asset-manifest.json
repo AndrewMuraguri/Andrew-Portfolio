@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Andrew-Portfolio/static/css/main.808ba398.css",
+    "main.js": "/Andrew-Portfolio/static/js/main.d401b28a.js",
+    "static/js/787.0fd832b8.chunk.js": "/Andrew-Portfolio/static/js/787.0fd832b8.chunk.js",
+    "static/media/Avatar.mp4": "/Andrew-Portfolio/static/media/Avatar.131e7ea4371d946e860c.mp4",
+    "static/media/RosmatikaRegular-BWA45.ttf": "/Andrew-Portfolio/static/media/RosmatikaRegular-BWA45.f7b5935032bdf59f2734.ttf",
+    "static/media/Robofriends.jpg": "/Andrew-Portfolio/static/media/Robofriends.a23b8d4598fb589d9c12.jpg",
+    "static/media/portfolio.jpg": "/Andrew-Portfolio/static/media/portfolio.a025602b38e1bcf66f94.jpg",
+    "static/media/Andrew_MuraguriFront_end_Developer.docx": "/Andrew-Portfolio/static/media/Andrew_MuraguriFront_end_Developer.3881c502c2ee050d42f9.docx",
+    "static/media/Andrew_MuraguriFront_end_Developer.pdf": "/Andrew-Portfolio/static/media/Andrew_MuraguriFront_end_Developer.9097e79f71257f8d07a7.pdf",
+    "static/media/layeredwavesbg.svg": "/Andrew-Portfolio/static/media/layeredwavesbg.1a93421167286d260044e8b5eb275ee3.svg",
+    "index.html": "/Andrew-Portfolio/index.html",
+    "main.808ba398.css.map": "/Andrew-Portfolio/static/css/main.808ba398.css.map",
+    "main.d401b28a.js.map": "/Andrew-Portfolio/static/js/main.d401b28a.js.map",
+    "787.0fd832b8.chunk.js.map": "/Andrew-Portfolio/static/js/787.0fd832b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.808ba398.css",
+    "static/js/main.d401b28a.js"
+  ]
+}
